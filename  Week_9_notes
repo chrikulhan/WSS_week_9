@@ -1,0 +1,22 @@
+
+***Vue
+
+-Adding interactivity
+-Forms, two-way data binding
+
+cloned repository from this fork:
+https://github.com/claraj/vue-week-2-starter
+
+finished code for reference:
+https://github.com/claraj/vue-week-2
+
+***Student sign in page:
+Most of the HTML is written for you
+
+Uses Bootstrap, but Bootstrap is not necessary for Vue
+Only to make the page look a little nicer, for example, tables and alerts
+
+Code in the /student directory: student_sign_in.html and styles.css
+You'll create the Vue app
+Look for the TODO comments in the HTML template
+
