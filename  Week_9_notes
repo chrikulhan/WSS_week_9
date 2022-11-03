@@ -45,5 +45,14 @@ The event handler functions can be called with arguments
 arrivedOrLeft function can take an argument – in this case, the student object the row is for
 So, we can tell who arrived, or left
 
+**Styling in bootstrap (to update when student arrive or leave message)
+https://getbootstrap.com/docs/4.0/components/alerts/
+
+**v-cloak in html and css:
+(https://vuejs.org/api/built-in-directives.html#v-cloak)
+
+**vue-js built in directives:
+https://vuejs.org/api/built-in-directives.html
+
 
 
