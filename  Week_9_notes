@@ -54,5 +54,12 @@ https://getbootstrap.com/docs/4.0/components/alerts/
 **vue-js built in directives:
 https://vuejs.org/api/built-in-directives.html
 
+more info on compare (used to sort in alphabetical order):
+https://www.w3schools.com/js/js_array_sort.asp
+
+More info on unicode (why we need to .toUpperCase() or .toLowerCase()
+in order to compare because lower case a has a larger number than
+capital Z. https://en.wikipedia.org/wiki/List_of_Unicode_characters
+
 
 
